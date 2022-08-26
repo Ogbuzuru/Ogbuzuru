@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ogbuzuru
-- 👀 I’m interested in Web Development (Front-End)
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m a Web Developer (Front-End)
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any front end project.
 - 📫 How to reach me: fredrickogbuzuru@gmail.com
 
